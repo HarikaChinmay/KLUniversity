@@ -1,2 +1,2 @@
 # KLUniversity
-https://harikachinmay.github.io/KLUniversity/ Tap here<a>
+https://harikachinmay.github.io/KLUniversity/ Tap here
